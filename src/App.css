@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: Poppins;
+}
+
+.clear{
+    background: linear-gradient(to top, rgba(255,255,255, 0) 0%, rgba(0, 0, 0, 0.436) 60%)
+}
+
+.card{
+    background: linear-gradient(to left, rgba(192, 2, 2, 0) 0%, rgba(243, 16, 16, 0.71) 60%)
+}
+.footing{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 1%, rgb(39, 79, 149) 50%)
+}
+
+.portrait {
+    /* width: 200px; */
+    height: 300px;
+    margin-top: 10px;
+    /* padding: 20px; */
+    /* overflow: hidden; */
+    /* background-color: #f0f0f0 */
+}
+
